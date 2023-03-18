@@ -1,0 +1,6 @@
+name = input("請輸入你的名字? ")
+print("Hi "+name)
+gender = input("請輸入你的性別? ")
+print("性別: "+gender)
+age = input("請輸入你的年紀? ")
+print("年紀" + age)
